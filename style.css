@@ -14,13 +14,13 @@ button {
 
     height: 40px;
 
-    border-radius: 12px;
+    border-radius: 0px;
 
     background-color: #1F51FF;
 
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: Arial Narrow, sans-serif;
 
-    border: none;
+    border: white;
 
     transition: background-color 500ms;
 
